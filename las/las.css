@@ -115,13 +115,4 @@ body
     left: 700px;
     filter: drop-shadow(0 0 0px #ffffff) 
     drop-shadow(0 0 40px #ffffff);
-    animation: animation2 60s ease-in-out infinite;
-   
-}
-
-@keyframes animation2
-{
-    0% {opacity: 1; filter: alpha(opacity=100);}
-    70% {opacity: 1; filter: alpha(opacity=100);}
-    100% {opacity: 0; filter: alpha(opacity=0);}
 }
